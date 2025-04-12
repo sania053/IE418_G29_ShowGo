@@ -48,8 +48,8 @@
 
 ## 📂 Figma Prototype Link
 
-> 🔗 [Click here to view the Figma prototype](#)  
-*(Replace `#` with your actual Figma share link)*
+> 🔗 [Click here to view the Figma prototype](https://www.figma.com/design/wRsVhb9jCEQB3x8g2sjrfH/ShowGo_G29?node-id=1-2&t=bfKf949dm1YpoPeL-1)  
+
 
 ---
 
