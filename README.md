@@ -48,7 +48,7 @@
 
 ## 📂 Figma Prototype Link
 
-> 🔗 [Click here to view the Figma prototype]([https://www.figma.com/design/wRsVhb9jCEQB3x8g2sjrfH/ShowGo_G29?node-id=1-2&t=bfKf949dm1YpoPeL-1](https://www.figma.com/proto/wRsVhb9jCEQB3x8g2sjrfH/ShowGo_G29?node-id=78-705&p=f&t=bGWlS0vZ2rrbxAu3-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=78%3A705))  
+> 🔗 [Click here to view the Figma prototype](https://www.figma.com/proto/wRsVhb9jCEQB3x8g2sjrfH/ShowGo_G29?node-id=78-705&p=f&t=bGWlS0vZ2rrbxAu3-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=78%3A705)  
 
 
 ---
